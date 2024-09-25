@@ -8,7 +8,7 @@ def nearestMultiple(num):
 		near = 4
 	return near
 
-def lose1():
+print("@@@@@@@@@")
 	print ("\n\nYOU LOSE !")
 	print("Better luck next time !")
 	exit(0)
